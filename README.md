@@ -1,1 +1,1 @@
-Team leader. Created a weather application displaying various weather statistics obtained via API calls from openweathermap.org. Contributions: Handling API calls and displaying data within the GUI. Code has been refactored since graduating to clean up this project.
+Team leader. Created a weather application displaying various weather statistics obtained via API calls from weatherapi.com. Contributions: Handling API calls and displaying data within the GUI. Code has been refactored since graduating to clean up this project.
